@@ -216,7 +216,7 @@ def main():
     footer_html = """    
         <div style="position: fixed; left: 50%; bottom: 20px; transform: translateX(-50%); 
                     background-color: transparent; text-align: center; padding: 10px;">
-            Developed with ❤️ by Reghu, Krishna and Neha
+            Developed with ❤️ by Pavi, Vini and Reghu
         </div>
     """
     st.markdown(footer_html, unsafe_allow_html=True)
